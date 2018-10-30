@@ -1,0 +1,130 @@
+
+/* //////header////// */
+header {
+  background-color: #f0f8ff ;
+  height:  : 40px ;
+  width: 100% ;
+}
+
+
+.header-left {
+  font-size: 45px ;
+  opacity: 0.5 ;
+  float:left;
+}
+
+.header-logo {
+  width: 450px;
+  text-align: center;
+  margin: 0 auto ;
+  color: red ;
+
+
+
+}
+
+.fas {
+
+  /* margin-right: 20px ; */
+
+}
+.far {
+  /* margin-right: 20px ; */
+}
+
+
+/* ////////top-wrapper/////////// */
+.container {
+  width: 1000px ;
+  /* margin: 0 auto; */
+}
+
+.top-wrapper {
+  color: #00bfff ;
+  text-align: center ;
+
+}
+.top-wrapper h4 {
+  display: inline-block;
+  background-color: #dcdcdc;
+  margin: 0px ;
+}
+
+
+.top-wrapper p {
+  font-size: 12px ;
+  margin: 0px ; */
+  }
+
+.btn {
+  background-color: #ffa500 ;
+  color: black ;
+  height: 30px ;
+  width: 500px ;
+  display: inline-block ;
+  font-weight: bold ;
+  margin: 10px auto ;
+  padding-top: 5px;
+  border-radius: 5px ;
+}
+
+.taglist a{
+  background-color: #dcdcdc ;
+  list-style: none ;
+  display: inline-block ;
+  padding: 0 10px ;
+  margin: 0px auto ;
+  color: #000000 ;
+  opacity: 0.9 ;
+}
+/* /////↑top-wrapper///main↓/////////////////
+
+
+/* /////////message-wrapper/////////// */
+
+.message-wrapper {
+  background-color: #EEEEEE ;
+  height: 350px ;
+}
+
+
+.contents-1 {
+  display: block ;
+  float :left;
+}
+.contents-2 {
+  display: block ;
+  float :left;
+  margin-left: 50px ;
+
+}
+.contents-2 ul {
+  padding: 0px ;
+}
+.contents-3 {
+  display: block ;
+  float: left;
+  margin-left: 50px ;
+  padding: 0px ;
+
+}
+.contents-3 ul {
+  padding: 0px ;
+}
+
+.contents h2 {
+  font-size: 12px ;
+}
+
+.contents p {
+  font-size: 11px ;
+  font-weight: bold;
+}
+
+
+
+
+
+.contents-list  a {
+  display:block;
+}
